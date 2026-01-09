@@ -45,7 +45,6 @@ public class GeolocationResponse {
         private String isoCode;
 
         private Map<String, String> names;
-
     }
 
     @Data
