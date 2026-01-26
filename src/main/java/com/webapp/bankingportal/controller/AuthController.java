@@ -7,6 +7,8 @@ import com.webapp.bankingportal.dto.OtpRequest;
 import com.webapp.bankingportal.dto.OtpVerificationRequest;
 import com.webapp.bankingportal.dto.ResetPasswordRequest;
 import com.webapp.bankingportal.service.AuthService;
+import com.webapp.bankingportal.dto.OtpRequest;
+
 
 import lombok.RequiredArgsConstructor;
 
