@@ -284,7 +284,7 @@ This project is licensed under the MIT License (if applicable) - see the LICENSE
 
 **Hariom Lokhande**
 
-For questions or support, please contact: hariomlokhande3456@gmail.com
+For questions or support, please contact: hariomlokhande3456@gmail.com or send Pull request and any suggestion directly here.
 
 ## 🎯 Key Features in Detail
 
